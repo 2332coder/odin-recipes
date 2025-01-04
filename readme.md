@@ -1,1 +1,0 @@
-through this project im gonna learn some more about front end web development and familarize with git
